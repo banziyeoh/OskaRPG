@@ -1,0 +1,24 @@
+example-item:
+    id: 310
+    name: '&bExample Item'
+    lore:
+    - '&bLore 1'
+    - '&bLore 2'
+    durability: 5
+    permission: 'class.mage'
+    nbt:
+        unbreakable: true
+        hideflags: 6
+    attributes:
+        damage: 20.0
+        range-damage: 10.0
+        armor: 3.0
+        health: 5.0
+    stats:
+        strength: 5.0
+        intelligence: 5.0
+        dexirity: 5.0
+    skills:
+        ComboStrike:
+            level: 2
+            chance: 100
